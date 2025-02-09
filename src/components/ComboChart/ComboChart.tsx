@@ -14,7 +14,8 @@ import {
   Title,
   Tooltip,
   Legend,
-  BarController
+  BarController,
+  LineController
 } from "chart.js";
 import { Chart } from "react-chartjs-2";
 import { useDashboard } from "../../context/DashboardContext";
@@ -29,7 +30,8 @@ ChartJS.register(
   Title,
   Tooltip,
   Legend,
-  BarController
+  BarController,
+  LineController
 );
 
 const ComboChart: React.FC = () => {
