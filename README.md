@@ -14,7 +14,7 @@ A responsive dashboard built with React, TypeScript, and Chart.js that displays 
 
 1. Clone the repository:
 ```bash
-git clone [<repository-url>](https://github.com/mandil2/Dynamic-Dashboard-with-Charts.git)
+git clone https://github.com/mandil2/Dynamic-Dashboard-with-Charts.git
 cd Dynamic-Dashboard-with-Charts
 ```
 
