@@ -1,4 +1,4 @@
-# Sales Dashboard
+# Sales Dashboard (Live demo: https://dynamic-dashboard-with-charts-1.vercel.app/)
 
 A responsive dashboard built with React, TypeScript, and Chart.js that displays sales analytics through interactive charts.
 
